@@ -25,15 +25,4 @@ Running the Dashborad
 <img width="1633" height="1204" alt="image" src="https://github.com/user-attachments/assets/2be73d3b-0b4e-4c92-a163-12e19148a129" />
 
 
-Directory Layout after running
---------------------------
-project/
-├── Tasks1-3.ipynb
-├── Task4-5.py
-├── facility_locations.pkl                      # Auto-generated 
-├── requirements.txt
-├── README.txt 
-└── nem_data_output/
-        ├── nem_facility_data.csv            # Auto-generated 
-        └── nem_market_data.csv           # Auto-generated 
 
